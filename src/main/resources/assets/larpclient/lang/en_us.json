@@ -1,0 +1,10 @@
+{
+  "key.category.larpclient.keybinds": "LarpClient",
+  "key.larpclient.open_click_gui": "Open ClickGUI",
+  "screen.larpclient.click_gui": "LarpClient",
+  "category.larpclient.combat": "Combat",
+  "category.larpclient.render": "Render",
+  "category.larpclient.misc": "Misc",
+  "category.larpclient.player": "Player",
+  "category.larpclient.selected": "Selected category"
+}
